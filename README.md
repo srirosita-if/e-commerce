@@ -36,7 +36,7 @@ Proyek ini menggunakan database `mandala_db` dengan tabel-tabel berikut:
 2. Letakkan folder proyek di dalam direktori `htdocs` (jika menggunakan XAMPP).
 3. Import file database (SQL) yang tersedia ke dalam **phpMyAdmin**.
 4. Sesuaikan konfigurasi database di file `config.php`.
-5. Akses melalui browser di `http://localhost/nama_folder_kamu/index.php`.
+5. Akses melalui browser di `http://localhost/mandala/index.php`.
 
 ---
-*Proyek ini dikembangkan untuk tujuan pembelajaran di Prodi Teknik Informatika.*
+*Proyek ini dikembangkan untuk tujuan UAS di Prodi Teknik Informatika.*
